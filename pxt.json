@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "servo": "*"
+        "servo": "*",
+        "pxt-oled-ssd1306": "github:mkleinsb/pxt-oled-ssd1306#v1.0.1"
     },
     "files": [
         "main.blocks",
